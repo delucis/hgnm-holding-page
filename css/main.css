@@ -207,7 +207,7 @@ abbr[title] {
     	padding-top: 25%;
     	margin-top:-166px;
     	background: #222;
-   		background-image: radial-gradient(circle farthest-corner, #363636, #222);
+   		background-image: radial-gradient(circle farthest-corner, #555, #222);
     }
     h1 { font-size: 2.66667em; }
 }
