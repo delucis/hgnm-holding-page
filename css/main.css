@@ -107,6 +107,12 @@ h1, p {
 	text-align:center;
 }
 
+h1 {
+	font-weight: 400;
+	text-transform: uppercase;
+	letter-spacing:0.17em;
+}
+
 
 
 
