@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Swithinbank -- @swithinbank
 
 # THANKS
 
-    <name>
+    H5BP, Huerta Tipográfica
 
 # TECHNOLOGY COLOPHON
 
