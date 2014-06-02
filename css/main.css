@@ -95,7 +95,6 @@ body {
 	font-family: Alegreya, serif;
 	color: #fff;
 	background: #222;
-	background-image: radial-gradient(circle farthest-corner, #333, #222);
 	-moz-font-feature-settings:"kern" 1, "liga" 1; 
 	-moz-font-feature-settings:kern=1, liga=1"; 
 	-ms-font-feature-settings:"kern" 1, "liga" 1; 
@@ -217,6 +216,7 @@ abbr[title] {
     body {
     	padding-top: 25%;
     	margin-top:-166px;
+   		background-image: radial-gradient(circle farthest-corner, #333, #222);
     }
     h1 { font-size: 2.66667em; }
 }
