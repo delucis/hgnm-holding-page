@@ -93,8 +93,13 @@ textarea {
 
 body {
 	font-family: Alegreya, serif;
+<<<<<<< HEAD
 	color: #000;
 	background: #444;
+=======
+	color: #222;
+	background: #fff;
+>>>>>>> parent of b499abd... Added background gradient
 	-moz-font-feature-settings:"kern" 1, "liga" 1; 
 	-moz-font-feature-settings:kern=1, liga=1"; 
 	-ms-font-feature-settings:"kern" 1, "liga" 1; 
