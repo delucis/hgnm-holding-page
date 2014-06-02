@@ -93,8 +93,9 @@ textarea {
 
 body {
 	font-family: Alegreya, serif;
-	color: #222;
-	background: #fff;
+	color: #fff;
+	background: #222;
+	background-image: radial-gradient(circle farthest-corner, #333, #222);
 	-moz-font-feature-settings:"kern" 1, "liga" 1; 
 	-moz-font-feature-settings:kern=1, liga=1"; 
 	-ms-font-feature-settings:"kern" 1, "liga" 1; 
