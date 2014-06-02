@@ -201,6 +201,9 @@ h1, p {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
+    html {
+    	font-size:1.5em;
+    }
     body {
     	padding-top: 25%;
     	margin-top:-166px;
