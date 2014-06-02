@@ -93,13 +93,9 @@ textarea {
 
 body {
 	font-family: Alegreya, serif;
-<<<<<<< HEAD
-	color: #000;
-	background: #444;
-=======
-	color: #222;
-	background: #fff;
->>>>>>> parent of b499abd... Added background gradient
+	color: #fff;
+	background: #222;
+	background-image: radial-gradient(circle farthest-corner, #333, #222);
 	-moz-font-feature-settings:"kern" 1, "liga" 1; 
 	-moz-font-feature-settings:kern=1, liga=1"; 
 	-ms-font-feature-settings:"kern" 1, "liga" 1; 
@@ -118,6 +114,18 @@ h1 {
 	letter-spacing:0.3em;
 	line-height: 1.1;
 }
+
+abbr[title] {
+	border-bottom: none;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -209,8 +217,6 @@ h1 {
     body {
     	padding-top: 25%;
     	margin-top:-166px;
-    	background: #222;
-   		background-image: radial-gradient(circle farthest-corner, #555, #222);
     }
     h1 { font-size: 2.66667em; }
 }
