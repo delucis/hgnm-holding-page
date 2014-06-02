@@ -107,8 +107,6 @@ h1, p {
 	text-align:center;
 }
 
-h1 { font-size: 2.66667em; }
-
 
 
 
@@ -203,6 +201,7 @@ h1 { font-size: 2.66667em; }
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
+    h1 { font-size: 2.66667em; }
 }
 
 @media print,
