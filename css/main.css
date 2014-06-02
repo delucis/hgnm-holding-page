@@ -119,16 +119,17 @@ abbr[title] {
 	border-bottom: none;
 }
 
+::-moz-selection {
+	color:#fff;
+    background: #30FF8A;
+    text-shadow: none;
+}
 
-
-
-
-
-
-
-
-
-
+::selection {
+	color:#fff;
+    background: #30FF8A;
+    text-shadow: none;
+}
 
 /* ==========================================================================
    Helper classes
